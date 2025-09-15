@@ -85,7 +85,7 @@ document.addEventListener("DOMContentLoaded", function () {
         alt: "Bright kitchen with island",
       },
       {
-        url: "/assets/residential/sofa-hall.webp",
+        url: "assets/residential/sofa-hall.webp",
         designer: "Residential Design",
         role: "Interior Designer",
         alt: "Bright kitchen with island",
@@ -111,7 +111,7 @@ document.addEventListener("DOMContentLoaded", function () {
         alt: "Office lounge area with plants",
       },
       {
-        url: "/assets/renovation/hospital-room.webp",
+        url: "assets/renovation/hospital-room.webp",
         designer: "Commercial Design",
         role: "Interior Designer",
         alt: "hospital room",
@@ -119,19 +119,19 @@ document.addEventListener("DOMContentLoaded", function () {
     ],
     renovations: [
       {
-        url: "/assets/renovation/hospital-room-2.webp",
+        url: "assets/renovation/hospital-room-2.webp",
         designer: "Renovations",
         role: "Renovation Specialist",
         alt: "hospital room renovation",
       },
       {
-        url: "/assets/renovation/office.webp",
+        url: "assets/renovation/office.webp",
         designer: "Renovations",
         role: "Renovation Specialist",
         alt: "office space",
       },
       {
-        url: "/assets/renovation/dinning-renovation.webp",
+        url: "assets/renovation/dinning-renovation.webp",
         designer: "Renovations",
         role: "Renovation Specialist",
         alt: "Living room ",
@@ -159,7 +159,7 @@ document.addEventListener("DOMContentLoaded", function () {
         alt: "Elegant living room with grey sofa",
       },
       {
-        url: "/assets/renovation/hospital-lobby.webp",
+        url: "assets/renovation/hospital-lobby.webp",
         designer: "All Designs",
         role: "Lead Designer",
         alt: "hospital lobby",
@@ -313,7 +313,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // 2. Avatar Image URL
   const AVATAR_URL =
-    "/assets/shivom-logo-new-1.png";
+    "assets/shivom-logo-new-1.png";
 
   // 3. Chat Header Texts
   const CHAT_NAME = "Shivom Designs";
@@ -460,3 +460,4 @@ function validateForm() {
 
   return true;
 }
+
